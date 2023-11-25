@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F28FF36F-2C64-4CCA-919B-8EF0B2554E8C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Iteration3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlayerTest.cs">
+    <Files>
+      <File FileName="Bag.cs" />
+      <File FileName="GameObject.cs" />
+      <File FileName="GlobalUsings.cs" />
+      <File FileName="IdentifiableObject.cs" />
+      <File FileName="IdentifiableObjectTest.cs" />
+      <File FileName="Inventory.cs" />
+      <File FileName="InventoryTest.cs" />
+      <File FileName="Item.cs" />
+      <File FileName="ItemTest.cs" />
+      <File FileName="Player.cs" />
+      <File FileName="PlayerTest.cs" Line="9" Column="32" />
+      <File FileName="BagTest.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iteration3" expanded="True">
+            <Node name="Iteration3" expanded="True">
+              <Node name="PlayerTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

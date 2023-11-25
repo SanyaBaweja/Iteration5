@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{F28FF36F-2C64-4CCA-919B-8EF0B2554E8C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Iteration5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="LookCommandTest.cs">
+    <Files>
+      <File FileName="MoveTest.cs" Line="31" Column="10" IsPinned="True" />
+      <File FileName="PlayerTest.cs" Line="13" Column="3" />
+      <File FileName="Player.cs" />
+      <File FileName="ItemTest.cs" />
+      <File FileName="Item.cs" />
+      <File FileName="InventoryTest.cs" />
+      <File FileName="Inventory.cs" />
+      <File FileName="IdentifiableObjectTest.cs" />
+      <File FileName="IdentifiableObject.cs" />
+      <File FileName="GlobalUsings.cs" />
+      <File FileName="GameObject.cs" />
+      <File FileName="BagTest.cs" />
+      <File FileName="Bag.cs" />
+      <File FileName="Command.cs" />
+      <File FileName="LookCommand.cs" />
+      <File FileName="IHaveInventory.cs" />
+      <File FileName="LookCommandTest.cs" Line="51" Column="10" />
+      <File FileName="Program.cs" />
+      <File FileName="Location.cs" Line="1" Column="1" />
+      <File FileName="LocationTest.cs" Line="22" Column="23" />
+      <File FileName="Path.cs" Line="1" Column="1" />
+      <File FileName="Move.cs" />
+      <File FileName="PathTest.cs" />
+      <File FileName="CommandProcessor.cs" />
+      <File FileName="CommandProcessorTest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iteration5" expanded="True">
+            <Node name="Iteration5" expanded="True">
+              <Node name="LookCommandTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Iteration5" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

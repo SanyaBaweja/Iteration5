@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{F28FF36F-2C64-4CCA-919B-8EF0B2554E8C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LookCommand.cs">
+    <Files>
+      <File FileName="PlayerTest.cs" />
+      <File FileName="Player.cs" />
+      <File FileName="ItemTest.cs" />
+      <File FileName="Item.cs" />
+      <File FileName="InventoryTest.cs" />
+      <File FileName="Inventory.cs" />
+      <File FileName="IdentifiableObjectTest.cs" />
+      <File FileName="IdentifiableObject.cs" />
+      <File FileName="GlobalUsings.cs" />
+      <File FileName="GameObject.cs" />
+      <File FileName="BagTest.cs" />
+      <File FileName="Bag.cs" />
+      <File FileName="Command.cs" Line="9" Column="59" />
+      <File FileName="LookCommand.cs" Line="50" Column="14" />
+      <File FileName="IHaveInventory.cs" />
+      <File FileName="LookCommandTest.cs" Line="52" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iteration4" expanded="True">
+            <Node name="Iteration4" expanded="True">
+              <Node name="LookCommand.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Iteration4" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Iteration5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>
